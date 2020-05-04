@@ -1,7 +1,7 @@
 {
 	"name": "jetpack",
 	"main": "mod.js",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"license": "MIT",
 	"homepage": "https://github.com/CCDirectLink/CCJetpack",
 	"description": "Turns your CTRL key into a jetpack."
