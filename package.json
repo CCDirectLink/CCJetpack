@@ -1,8 +1,13 @@
 {
   "name": "jetpack",
-  "main": "mod.js",
   "version": "0.1.2",
   "license": "MIT",
   "homepage": "https://github.com/CCDirectLink/CCJetpack",
-  "description": "Turns your CTRL key into a jetpack."
+  "description": "Turns your CTRL key into a jetpack",
+  "module": true,
+  "prestart": "prestart.js",
+  "main": "poststart.js",
+  "ccmodDependencies": {
+    "input-api": "*"
+  }
 }
