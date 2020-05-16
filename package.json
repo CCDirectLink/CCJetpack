@@ -1,8 +1,8 @@
 {
-	"name": "jetpack",
-	"main": "mod.js",
-	"version": "0.1.2",
-	"license": "MIT",
-	"homepage": "https://github.com/CCDirectLink/CCJetpack",
-	"description": "Turns your CTRL key into a jetpack."
+  "name": "jetpack",
+  "main": "mod.js",
+  "version": "0.1.2",
+  "license": "MIT",
+  "homepage": "https://github.com/CCDirectLink/CCJetpack",
+  "description": "Turns your CTRL key into a jetpack."
 }
