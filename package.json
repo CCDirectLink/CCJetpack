@@ -8,6 +8,6 @@
   "prestart": "prestart.js",
   "main": "poststart.js",
   "ccmodDependencies": {
-    "input-api": "*"
+    "crosscode": "^1.1.0"
   }
 }
