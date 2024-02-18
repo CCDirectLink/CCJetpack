@@ -1,6 +1,6 @@
 {
   "id": "jetpack",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "title": "Jetpack",
   "description": "Turns your CTRL key into a jetpack",
   "repository": "https://github.com/CCDirectLink/CCJetpack",
