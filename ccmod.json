@@ -1,0 +1,14 @@
+{
+  "id": "jetpack",
+  "version": "0.2.1",
+  "title": "Jetpack",
+  "description": "Turns your CTRL key into a jetpack",
+  "repository": "https://github.com/CCDirectLink/CCJetpack",
+  "tags": ["speedrun", "fun", "cheats"],
+  "authors": ["2767mr", "dmitmel"],
+  "dependencies": {
+    "crosscode": "^1.1.0"
+  },
+  "poststart": "poststart.js",
+  "prestart": "prestart.js"
+}
